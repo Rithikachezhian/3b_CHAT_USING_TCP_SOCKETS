@@ -1,4 +1,8 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+
+## NAME : RITHIKA N
+## REG NO : 212223230172
+
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -8,7 +12,11 @@ To write a python program for creating Chat using TCP Sockets Links.
  server
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
+![3-b-prog](https://github.com/user-attachments/assets/154a074c-540a-4d89-8abc-51126840106b)
+
 ## OUPUT
+![3-b-output](https://github.com/user-attachments/assets/185d8abe-cc48-4106-9cf7-f95baf68a1f3)
+
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
